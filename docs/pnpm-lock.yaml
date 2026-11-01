@@ -138,8 +138,8 @@ importers:
         specifier: ^2.8.3
         version: 2.8.3
       zod:
-        specifier: ^3.25.76
-        version: 3.25.76
+        specifier: ^4.6.6
+        version: 4.6.6
     devDependencies:
       '@docusaurus/module-type-aliases':
         specifier: 3.10.2
@@ -3950,7 +3950,7 @@ packages:
     engines: {node: '>=6'}
 
   docusaurus-plugin-llms@https://codeload.github.com/northpolesec/docusaurus-plugin-llms/tar.gz/7fe3fb8879d9ddb95bd6a1e7c40c2f95cbe5c70a:
-    resolution: {gitHosted: true, tarball: https://codeload.github.com/northpolesec/docusaurus-plugin-llms/tar.gz/7fe3fb8879d9ddb95bd6a1e7c40c2f95cbe5c70a}
+    resolution: {gitHosted: true, integrity: sha512-JJV62shzjwSJPIWkqbAKUti2I9qfX6Ejz2E35t5wUkNVgpInzVjLWfrTkMmVySsBn7dUweoC/m1fUIdpYfA7fw==, tarball: https://codeload.github.com/northpolesec/docusaurus-plugin-llms/tar.gz/7fe3fb8879d9ddb95bd6a1e7c40c2f95cbe5c70a}
     version: 0.1.5
     engines: {node: '>=18.0'}
     peerDependencies:
@@ -7030,8 +7030,8 @@ packages:
     resolution: {integrity: sha512-4LCcse/U2MHZ63HAJVE+v71o7yOdIe4cZ70Wpf8D/IyjDKYQLV5GD46B+hSTjJsvV5PztjvHoU580EftxjDZFQ==}
     engines: {node: '>=12.20'}
 
-  zod@3.25.76:
-    resolution: {integrity: sha512-gzUt/qt81nXsFGKIFcC3YnfEAx5NkunCfnDlvuBSSFS02bcXu4Lmea0AFIUwbLWxWPx3d9p8S5QoaujKcNQxcQ==}
+  zod@4.6.6:
+    resolution: {integrity: sha512-4UmzQUF5fxvfcYHlbjBmejU+w+hbDnWFx4aS8kBx7nPBHcO2SqPbpAG8snbdg+Xse4pRefR98hgjFgIMCI/UhA==}
 
   zwitch@2.0.4:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
@@ -15290,6 +15290,6 @@ snapshots:
 
   yocto-queue@1.2.2: {}
 
-  zod@3.25.76: {}
+  zod@4.6.6: {}
 
   zwitch@2.0.4: {}
